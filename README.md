@@ -26,7 +26,7 @@ Modules used:
 ### Cloning the repository
 The code can be cloned using git tool. If you're confused, please watch [this video](https://www.youtube.com/watch?v=q9wc7hUrW8U) or simply copy and paste the code bellow in your shell:
 ```
-git clone https://github.com/0xY43/certissue.git
+git clone https://github.com/HexY43/certissue.git
 ```
 
 ### Installing requirements
